@@ -1,4 +1,8 @@
-alert('The mobile version for the site is currently not available. Please open it in desktop or pc.')
+const width = window.innerWidth
+
+if(width <= 1250){
+    alert('The mobile version for the site is currently not available. Please open it in desktop or pc.')
+}
 
 const spans = document.querySelectorAll('h1 span')
 spans.forEach(span => span.addEventListener('mouseover',function(e){
