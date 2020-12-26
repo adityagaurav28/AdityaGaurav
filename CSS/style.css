@@ -911,6 +911,10 @@ div.hideCategory{
         letter-spacing: 1px;
         word-spacing: 2px;
     }
+     
+    .profile-image img:hover{
+        transform: scale(1.05);
+    }
 
     .about-me-info p{
         font-size: 1rem;
