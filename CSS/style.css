@@ -814,6 +814,7 @@ div.hideCategory{
     .text p{
         padding-top: 0px;
         top: -20px;
+        word-spacing: 8px;
     }
 
     .text a{
@@ -843,6 +844,7 @@ div.hideCategory{
 
     div[class^='tag-'] {
         clip-path: none;
+        width: 22%;
         border-radius: 20%;
     }
     
