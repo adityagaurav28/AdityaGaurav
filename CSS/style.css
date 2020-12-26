@@ -911,10 +911,6 @@ div.hideCategory{
         letter-spacing: 1px;
         word-spacing: 2px;
     }
-     
-    .profile-image img:hover{
-        transform: scale(1.05);
-    }
 
     .about-me-info p{
         font-size: 1rem;
@@ -937,7 +933,7 @@ div.hideCategory{
     }
 }
 
-@media screen and (max-width:350px){
+@media screen and (max-width:375px){
     header{
         padding: 15px;
         justify-content: center;
