@@ -907,6 +907,11 @@ div.hideCategory{
         padding: 0 10px 0 10px;
     }
 
+    .text p{
+        letter-spacing: 1px;
+        word-spacing: 2px;
+    }
+
     .about-me-info p{
         font-size: 1rem;
     }
@@ -944,11 +949,6 @@ div.hideCategory{
 
     .text h1 {
         font-size: 2rem;
-    }
-
-    .text p{
-        letter-spacing: 1px;
-        word-spacing: 2px;
     }
 
     .about-me-info {
